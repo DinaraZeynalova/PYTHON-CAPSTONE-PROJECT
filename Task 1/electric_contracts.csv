@@ -1,0 +1,26 @@
+No Flex,no_flex_$/kwh,Monthly Flex,monthly_$/kwh,Hourly Flex,hourly_$/kwh
+,,,,,
+Flat Rate,0.21,January,0.2,12AM until 1AM,0.1
+,,February,0.19,1AM until 2AM,0.1
+,,March,0.17,2AM until 3AM,0.1
+,,April,0.18,3AM until 4AM,0.1
+,,May,0.22,4AM until 5AM,0.15
+,,June,0.27,5AM until 6AM,0.2
+,,July,0.24,6AM until 7AM,0.24
+,,August,0.19,7AM until 8AM,0.24
+,,September,0.18,8AM until 9AM,0.26
+,,October,0.15,9AM until 10AM,0.2
+,,November,0.14,10AM until 11AM,0.2
+,,December,0.19,11AM until 12PM,0.26
+,,,,12PM until 1PM,0.26
+,,,,1PM until 2PM,0.2
+,,,,2PM until 3PM,0.24
+,,,,3PM until 4PM,0.18
+,,,,4PM until 5PM,0.15
+,,,,5PM until 6PM,0.3
+,,,,6PM until 7PM,0.24
+,,,,7PM until 8PM,0.24
+,,,,8PM until 9PM,0.12
+,,,,9PM until 10PM,0.11
+,,,,10PM until 11PM,0.1
+,,,,11PM until 12AM,0.1
